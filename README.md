@@ -5,3 +5,9 @@
     4.1. npm install -g express-generator
 5. Criar rotas para produtos;
 6. Criar rotas para clientes;
+
+<!-- 
+    model: camada de acesso aos dados 
+    view: camada onde visualizamos os dados    
+    controller: camada onde decidimos de acordo com a rota qual view deve ser apresentada e qual model deve ser consultada
+-->
